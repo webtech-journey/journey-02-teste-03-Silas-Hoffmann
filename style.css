@@ -17,6 +17,7 @@ body {
     text-align: left;
     justify-content: space-between;
     padding: 20px;
+    display: flex;
 }
 
 .box_31, .box_32, .box_33, .box_34 {
@@ -31,7 +32,7 @@ body {
 }
 
 .container {
-    display: flex;
+    display: grid;
     justify-content: space-around
 }
 
