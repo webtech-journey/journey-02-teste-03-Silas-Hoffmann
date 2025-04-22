@@ -1,8 +1,8 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - ArthurCRodrigues
 
-**Data:** 22/04/2025 16:15
+**Data:** 22/04/2025 16:41
 
-**Nota Final:** `71.43/100`
+**Nota Final:** `80.00/100`
 **Status:** ✅ Aprovado
 
 ---
@@ -13,11 +13,7 @@
 - Nenhum item bônus foi identificado. Tente adicionar mais estilo e responsividade ao seu código nas próximas tentativas!
 
 ## ❌ Problemas Detectados (Descontos de até -30%)
-- Foram encontrados `2` problemas que acarretam descontos. Veja abaixo os testes penalizados:
-  - ⚠️ **Falhou no teste de penalidade**: `test_penalty.py::test_improper_grid_usage`
-    - **Correção sugerida**: Grid não foi usado, ele é obrigatório para essa atividade.
-  - ⚠️ **Falhou no teste de penalidade**: `test_penalty.py::test_poor_structure`
-    - **Correção sugerida**: Nenhuma linha ou coluna foi encontrada, certifique-se de que sua página contenha uma tabela com múltiplas linhas e colunas.
+- Nenhuma infração grave foi detectada. Muito bom nesse aspecto!
 
 ---
 Continue praticando e caprichando no código. Cada detalhe conta! 💪
